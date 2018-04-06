@@ -1,0 +1,75 @@
+Thus, the primary objectives of this research are to identify the various attributes for construction delay, to identify the relationship between these attributes by statistical 
+methods and to predict the impact of these identified attributes on construction delay using a regression model in the Indian construction sector.
+
+Research conducted in this area is broadly divided into two streams—one stream relating to attributes and factors that cause project delays and second stream relating to delay analysis.
+
+However, the findings that other high ranked factors in UAE had no significant impact in KSA construction projects clearly highlight the fact that factors causing construction
+delay cannot be considered common across the countries.
+
+Egyptian construction projects concluded that different parties of construction don't agree on the relative importance of various factors of delay, mostly blaming each other of 
+delays using importance index and spearman rank correlation
+
+RAF,PA,,PD
+
+Work is yet to be done in identifying the relationship between the various reasons of delay and also prediction of impact on that delay.
+A survey of construction professionals representing various stakeholders involved in construction projects in India was conducted.
+Factor analysis was used to reduce the attributes for investigating the clustering effects while regression analysis was performed for deriving a predictive model based on the best
+fit attributes for forecasting time performance in the project.
+
+Descriptive statistics namely Relative Importance Index(RII) has been used to highlight the relative importance of attributes as perceived by the respondents
+An attempt to achieve this multiple regression analysis is considered a most suitable method to derive the relationship between the attributes
+The attributes are arranged in ascending order of ranks, attribute with highest RII or rank 1 indicates that it has the maximum impact on the delay while the attribute with lowest rank
+indicates that it has the least impact on delay duration.
+To identify if there is a relationship between the selected attributes, Spearman rank correlation is used (Field, 2005). It assesses how well the relationship between two
+variables can be described using a monotonic function. The sign of the Spearman correlation indicates the direction of association between X and Y. A Spearman correlation of zero 
+indicates that there is no tendency for Y to either increase or decrease when X increases.
+2009). In order to evaluate the
+adequacy of the survey data for factor analysis, Kaiser–
+Meyer–Olkin (KMO) test and Bartlett's test of sphericity
+(Field, 2005) were conducted.
+Principal component analysis is used
+to reduce numerous correlated attributes into much fewer un-
+derlying factors.
+By calculating Pearson
+correlation using SPSS we can estimate the extent of correlation
+among various variables.
+For reliability analysis, which is required to ensure
+the construct of the model over time (i.e. consistency of mea-
+sured attributes and scale), Cronbach's alpha test was per-
+formed on entire data as well as attributes in each factor.
+a rule of thumb applies to
+most situations with the following ranges: Ca> 0.9 denotes
+excellent, 0.9 >Ca> 0.8 as good, 0.8 >Ca> 0.7 as acceptable,
+0.7 >Ca> 0.6 as questionable, 0.6 >Ca> 0.5 as poor and
+0.5 >Ca denotes unacceptable
+the reasons of delay evolving from factor
+analysis are further analysed by linear multiple regression for
+potentially developing a predictive model in Indian construc-
+tion context. While factor analysis depicts the existence of
+clusters of large correlation coefficients with measurable
+underlying dimensions, such dimensions (or factors) do not
+possess predictive power of any order on the measured phe-
+nomena.
+Value of R2 provides a good gauge of substantive size of rela-
+tionship between the predicting or dependent variable and the
+independent variables.
+In this research, the parametric test was conducted by
+analysing the homogeneity of variance (Levene's test) on the
+selected attributes before performing the regression analysis
+(Field, 2005). The results of Levene's test being significant
+(pb0.05) suggest the rejection of the null hypothesis that
+variances between variables are zero and thus the regression
+analysis is tenable.
+Y = a + b1X1 + b2X2 + ...bmXm +- e
+where Y is dependent variable, a is constant and intercepts at Y
+axis; b1 to bm are estimated regression coefficients; X1 to Xm
+are values of predictor or independent variables, e is error.
+Forward stepwise process is used to formulate the regression
+model. Since it may not be the best fitting model, predictor var-
+iables with significant correlation with dependent variable is
+identified using Spearman correlation and models are again for-
+mulated with forward pass backward stepwise and forced entry.
+Out of formed models, the optimum model is selected based
+on strength of correlation (R2
+) which is a direct measure of %
+variance explained.
